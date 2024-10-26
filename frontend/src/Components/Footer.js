@@ -14,11 +14,11 @@ function Footer() {
                     <div className="contact-details">
                         <h1>Contact Us</h1>
                         <p>Librarian</p>
-                        <p>Government School</p>
-                        <p>Visakhapatnam-530041</p>
-                        <p>Andhra Pradesh</p>
+                        <p>MMDU Mullana</p>
+                        <p>Ambala</p>
+                        <p>Haryana</p>
                         <p>India</p>
-                        <p><b>Email:</b>example@gmail.com</p>
+                        <p><b>Email:</b>adityavishal903@gmail.com</p>
                     </div>
                     <div className='usefull-links'>
                         <h1>Usefull Links</h1>
